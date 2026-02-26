@@ -20,7 +20,8 @@ The application follows a microservices architecture pattern with the following 
 - Resilience4J
 - Docker
 - Kubernetes
-- MySQL
+- PostgreSQL
+- JWT
 - ELK Stack
 - Zipkin
 
