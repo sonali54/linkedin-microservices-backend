@@ -10,4 +10,19 @@ The application follows a microservices architecture pattern with the following 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72cb1f0f-fbc3-4e44-b7a5-1b5bed6e5930" />
 
+## 🛠️ Tech Stack
+
+- Java 17
+- Spring Boot
+- Spring Cloud
+- Eureka
+- Kafka
+- Resilience4J
+- Docker
+- Kubernetes
+- MySQL
+- ELK Stack
+- Zipkin
+
+
 
