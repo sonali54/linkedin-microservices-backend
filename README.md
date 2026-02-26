@@ -1,4 +1,4 @@
-# linkedin-microservices-backend
+# ConnectSphere
 Microservices architecture with Spring Cloud for Linkedin-like application
 
 🏗️ Architecture
